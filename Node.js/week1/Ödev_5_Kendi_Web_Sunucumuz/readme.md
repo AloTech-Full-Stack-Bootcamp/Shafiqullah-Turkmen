@@ -58,6 +58,7 @@ const server = http.createServer((req, res) => {
         //Contents of head and body
         res.writeHead(404, {'Content-Type': 'text/html'});
         res.write('<h2>404 Page is not found.</h2>');
+        res.end();
     }
 });
 
