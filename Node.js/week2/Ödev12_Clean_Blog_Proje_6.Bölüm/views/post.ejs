@@ -29,7 +29,7 @@
           <p class="subheading"><%= post.detail %></p>
           <span class="meta">Posted by
             <a href="#">Shafiqullah Turkmen</a>
-            on <%= post.dateCreated %></span>
+            on <%= post.dateCreated.toDateString() %></span>
 
         </div>
 
@@ -37,7 +37,7 @@
           <!-- Share box -->
           <div class="tm-bg-gray tm-share-box">
             <div class="text-center">
-              <a href="/posts/edit/<%= post._id  %>" class="btn btn-primary mb-4 tm-btn-animate tm-btn-download tm-icon-download"><span>Update Details</span></a>	
+              <a href="/posts/edit/<%= post._id  %>" class="btn btn-primary mb-4 tm-btn-animate tm-btn-download tm-icon-download"><span>Update Post</span></a>	
             </div>	
             <div class="text-center">
               <form method="POST" action="/posts/<%= post._id %>?_method=DELETE">
