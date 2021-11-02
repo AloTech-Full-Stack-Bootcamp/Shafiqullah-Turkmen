@@ -23,7 +23,7 @@ Clean Blog projesini farklı ödevlere ayırarak yapmaya çalışacağız. Bu ö
 13. Partials klasör yapısını oluşturalım.
 14. İlgili yönlendirmeleri ve _navigation.ejs klasöründeki link düzenlemelerini yapalım.
 
-[Ödev 7 ve 8 Çözüm linki](https://github.com/ShafiqullahTurkmen/Patika-Repository/tree/main/Node.JS/%C3%96dev8_Clean_Blog_Projesi_2.B%C3%B6l%C3%BCm)
+[Ödev 7 ve 8 Çözüm linki](https://github.com/AloTech-Full-Stack-Bootcamp/Shafiqullah-Turkmen/tree/main/Node.js/week2/%C3%96dev8_Clean_Blog_Projesi_2.B%C3%B6l%C3%BCm)
 
 -----------------------------------------------
 ## Ödev 9
@@ -38,7 +38,7 @@ Clean Blog projemizin bu 3. bölümünde aşağıdaki işlemleri yapalım.
 4. Veri tabanımızda 3 adet pos dökümanı oluşturalım.
 5. Oluşturduğumuz post dökümanlarını Blog sitemizin anasayfasında gösterelim.
 
-[Ödev 9 Çözüm linki](https://github.com/ShafiqullahTurkmen/Patika-Repository/tree/main/Node.JS/%C3%96dev9_Clean_Blog_Proje%20_3.B%C3%B6l%C3%BCm)
+[Ödev 9 Çözüm linki](https://github.com/AloTech-Full-Stack-Bootcamp/Shafiqullah-Turkmen/tree/main/Node.js/week2/%C3%96dev9_Clean_Blog_Proje%20_3.B%C3%B6l%C3%BCm)
 
 -----------------------------------------------
 ## Ödev 10
@@ -52,7 +52,7 @@ Clean Blog projemizin bu 4. bölümünde aşağıdaki işlemleri yapalım.
 3. tekil post bilgilerini post.ejs dosyasına gönderelim.
 4. post.ejs içerisine post.title, post.detail ve post.dateCreated bilgilerini gönderelim. (her bir post için ayrı image kullanmayacağız)
 
-[Ödev 10 Çözüm linki](https://github.com/ShafiqullahTurkmen/Patika-Repository/tree/main/Node.JS/%C3%96dev10_Clean_Blog_Projesi_4.B%C3%B6l%C3%BCm)
+[Ödev 10 Çözüm linki](https://github.com/AloTech-Full-Stack-Bootcamp/Shafiqullah-Turkmen/tree/main/Node.js/week2/%C3%96dev10_Clean_Blog_Projesi_4.B%C3%B6l%C3%BCm)
 
 -------------------------------------------------------
 ## Ödev 11
@@ -66,7 +66,7 @@ Clean Blog projemizin bu 5. bölümünde aşağıdaki işlemleri yapalım.
 3. Herhangi bir post verisini silmek için gerekli çalışmaları yapalım.
 4. Kodumuzu MVC yapısına göre tekrar düzenleyelim.
 
-[Ödev 11 Çözüm linki](https://github.com/ShafiqullahTurkmen/Patika-Repository/tree/main/Node.JS/%C3%96dev11_Clean%20_Blog_Proje_5.B%C3%B6l%C3%BCm)
+[Ödev 11 Çözüm linki](https://github.com/AloTech-Full-Stack-Bootcamp/Shafiqullah-Turkmen/tree/main/Node.js/week2/%C3%96dev11_Clean%20_Blog_Proje_5.B%C3%B6l%C3%BCm)
 
 --------------------------------------------------------
 ## Ödev 12
@@ -78,4 +78,4 @@ Clean Blog projemizin bu 6. bölümünde aşağıdaki işlemleri yapalım.
 + Uygulamamızı HEROKU ve MongoDB Atlas ücresiz servislerini kullanarak yükleyelim.
 + Not: Uygulamamızda sayfalama ve görsel yükleme işlemlerini yapmadık. Sonraki projemizde de bu özellikleri kullanacağız.
 
-[Ödev 12 Çözüm linki](https://github.com/ShafiqullahTurkmen/Patika-Repository/tree/main/Node.JS/%C3%96dev12_Clean_Blog_Proje_6.B%C3%B6l%C3%BCm)
+[Ödev 12 Çözüm linki](https://github.com/AloTech-Full-Stack-Bootcamp/Shafiqullah-Turkmen/tree/main/Node.js/week2/%C3%96dev12_Clean_Blog_Proje_6.B%C3%B6l%C3%BCm)
