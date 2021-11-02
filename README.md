@@ -4,10 +4,10 @@ This repository contains my assignments and homework for [Patika & AloTech FullS
 
 ## Bootcamp Contents
 
-##### [NODE.js](https://github.com/ShafiqullahTurkmen/Full-Stack-Repository/tree/main/Node.js/)
-[Week 1 - Asynchronous JavaScript and Node.js Fundamentals](https://github.com/ShafiqullahTurkmen/Full-Stack-Repository/tree/main/Node.js/week1/)
+##### [NODE.js](https://github.com/AloTech-Full-Stack-Bootcamp/Shafiqullah-Turkmen/tree/main/Node.js)
+[Week 1 - Asynchronous JavaScript and Node.js Fundamentals](https://github.com/AloTech-Full-Stack-Bootcamp/Shafiqullah-Turkmen/tree/main/Node.js/week)
 
-Week 2 - PCAT Project
+[Week 2 - Clean-Blog Project](https://github.com/AloTech-Full-Stack-Bootcamp/Shafiqullah-Turkmen/tree/main/Node.js/week2)
 
 Week 3 - SmartEdu Project
 
