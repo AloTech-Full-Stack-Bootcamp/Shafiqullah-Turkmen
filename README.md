@@ -9,7 +9,7 @@ This repository contains my assignments and homework for [Patika & AloTech FullS
 
 [Week 2 - Clean-Blog Project](https://github.com/AloTech-Full-Stack-Bootcamp/Shafiqullah-Turkmen/tree/main/Node.js/week2)
 
-Week 3 - SmartEdu Project
+[Week 3 - SmartEdu Project](https://github.com/AloTech-Full-Stack-Bootcamp/Shafiqullah-Turkmen/tree/main/Node.js/week3)
 
 ##### [React](https://github.com/ShafiqullahTurkmen/Full-Stack-Repository/tree/main/React/)
 Week 1
