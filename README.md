@@ -22,7 +22,7 @@ Week 6 - No Homework Given
 
 [Week 7 - Python](https://github.com/AloTech-Full-Stack-Bootcamp/Shafiqullah-Turkmen/tree/main/Django/week7)
 
-Week 8
+[Week 8 - Patikagram](https://github.com/AloTech-Full-Stack-Bootcamp/Shafiqullah-Turkmen/tree/main/Django/week8)
 
 Week 9
 
