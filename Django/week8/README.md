@@ -1,7 +1,7 @@
 ### Task 1: create PostViewSet
 ### Solution:
+#### urls.py
 ```python
-
 from django.contrib import admin
 from django.urls import path,include
 from rest_framework import routers
@@ -11,8 +11,9 @@ from main.views import UserViewSet, PostViewSet, CommentViewSet, LikeViewSet
 router = routers.DefaultRouter()
 router.register(r'users', UserViewSet)
 router.register(r'posts', PostViewSet)
-
-----------------------------------------------------------------------------------------------
+```
+#### views.py
+```python
 from django.db.models import query
 from rest_framework import viewsets
 from django.contrib.auth.models import User
@@ -25,7 +26,9 @@ class PostViewSet(viewsets.ModelViewSet):
     queryset = Post.objects.all()
     serializer_class = PostSerializer
 
-----------------------------------------------------------------------------------------------
+```
+#### serializers.py
+```python
 from rest_framework import serializers
 from django.contrib.auth.models import User
 from . models import Comment, Like, Post
@@ -40,6 +43,7 @@ class PostSerializer(serializers.HyperlinkedModelSerializer):
 
 ### Task 2: create CommentViewSet
 ### Solution:
+#### urls.py
 ```python
 from django.contrib import admin
 from django.urls import path,include
@@ -52,7 +56,9 @@ router.register(r'users', UserViewSet)
 router.register(r'posts', PostViewSet)
 router.register(r'comments', CommentViewSet)
 
-----------------------------------------------------------------------------------------------
+```
+#### views.py
+```python
 from django.db.models import query
 from rest_framework import viewsets
 from django.contrib.auth.models import User
@@ -66,7 +72,9 @@ class CommentViewSet(viewsets.ModelViewSet):
     queryset = Comment.objects.all()
     serializer_class = CommentSerializer 
 
-----------------------------------------------------------------------------------------------
+```
+#### serializers.py
+```python
 from rest_framework import serializers
 from django.contrib.auth.models import User
 from . models import Comment, Like, Post
@@ -81,6 +89,7 @@ class CommentSerializer(serializers.HyperlinkedModelSerializer):
 
 ### Task 3: create LikeViewSet
 ### Solution:
+#### urls.py
 ```python
 from django.contrib import admin
 from django.urls import path,include
@@ -94,7 +103,9 @@ router.register(r'posts', PostViewSet)
 router.register(r'comments', CommentViewSet)
 router.register(r'likes', LikeViewSet)
 
-----------------------------------------------------------------------------------------------
+```
+#### views.py
+```python
 from django.db.models import query
 from rest_framework import viewsets
 from django.contrib.auth.models import User
@@ -107,7 +118,9 @@ class LikeViewSet(viewsets.ModelViewSet):
     queryset = Like.objects.all()
     serializer_class = LikeSerializer 
 
-----------------------------------------------------------------------------------------------
+```
+#### serializers.py
+```python
 from rest_framework import serializers
 from django.contrib.auth.models import User
 from . models import Comment, Like, Post
