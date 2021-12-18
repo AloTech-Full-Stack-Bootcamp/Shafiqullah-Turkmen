@@ -24,7 +24,7 @@ Week 6 - No Homework Given
 
 [Week 8 - Patikagram](https://github.com/AloTech-Full-Stack-Bootcamp/Shafiqullah-Turkmen/tree/main/Django/week8)
 
-Week 9
+[Week 9 - Patikagram with JWT and Swagger UI ](https://github.com/AloTech-Full-Stack-Bootcamp/Shafiqullah-Turkmen/tree/main/Django/week9)
 
 ## Installation
 You can clone the project with the following link: (https://github.com/ShafiqullahTurkmen/Full-Stack-Repository.git)
